@@ -6,7 +6,7 @@ import DecryptedText from "./components/DecryptedText.jsx";
 import Shiny from "./components/shiny.jsx";
 import Shiny2 from "./components/shiny2.jsx";
 import { motion } from "framer-motion";
-import ProjectCard from "./components/projectCard.jsx";
+import ProjectCard from "./components/ProjectCard.jsx";
 import ContactForm from "./components/Email.jsx";
 import SocialDock from "./components/socialDock.jsx";
 
